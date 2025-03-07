@@ -1,3 +1,0 @@
-pillow
-pdf2image
-poppler-utils  # Required for pdf2image to work (Linux)
