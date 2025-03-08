@@ -1,7 +1,7 @@
 # PDFReader
 
 ## Overview
-PDFReader is a lightweight and efficient **Qt-based** application for viewing and annotating PDF documents. It features **lazy loading, caching**, and annotation tools to enhance performance and usability.
+PDFReader is a lightweight and efficient Qt-based application for viewing and annotating PDF documents. It features lazy loading, caching, and annotation tools to enhance performance and usability.
 
 ## Features
 
